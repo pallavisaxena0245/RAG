@@ -26,7 +26,7 @@ export default function Home() {
         { text: 'Error processing your query.', sender: 'bot' },
       ]);
     }
-  };
+  }
 
   return (
     <div>
