@@ -1,0 +1,4 @@
+fastapi
+llama-index
+pypdf  # For PDF processing
+python-docx # For DOCX processing
